@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Node / frontend
+node_modules/
+dist/
+build/
+.npm/
+.env
+.env.*
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
